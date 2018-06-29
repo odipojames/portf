@@ -1,3 +1,7 @@
 body{background-color: pink;}
 .p1{font-style: oblique;color: blue;
 }
+.p2{float: right;font-style: italic;
+}
+.p3{align-self: center; color: white;font-style: italic; color: white;
+}
