@@ -1,7 +1,34 @@
-body{background-color: pink;}
-.p1{font-style: oblique;color: blue;
+body {
+  background-color: pink;
 }
-.p2{float: right;font-style: italic;
+
+#EDUCATIANAL {
+  font-style: oblique;
+  color: blue;
 }
-.p3{align-self: center; color: white;font-style: italic; color: white;
+
+#p2 {
+  float: right;
+  font-style: italic;
+}
+
+#p3 {
+  align-self: center;
+  color: white;
+  font-style: italic;
+  color: white;
+}
+
+#pq {
+  font-style: italic;
+  color: yellow;
+}
+
+#work {
+  color: #21B959;
+  text-align: center;
+}
+
+.p4 {
+  align-self: flex-end;
 }
