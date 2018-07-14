@@ -1,5 +1,14 @@
 .topnav{
   background-color:#313E51;
-  padding: 10px;
+  padding: 20px;
   color: white;
+  align-items: center;
+    border-collapse: collapse;
+    border-style: ridge;
+    margin-right: -30px;
+}
+
+.row{
+  border: 0px;
+  padding: 0px;
 }
