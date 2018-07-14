@@ -1,5 +1,5 @@
 .topnav{
-  background-color:#313E51;
+  background-color:#009B87;
   padding: 20px;
   color: white;
   align-items: center;
@@ -7,6 +7,17 @@
     border-style: ridge;
     margin-right: -30px;
 }
+
+#topnav{  background-color:#313E51;
+  padding: 20px;
+  color: white;
+  align-items: center;
+    border-collapse: collapse;
+    border-style: ridge;
+    margin-right: -30px;
+
+}
+
 
 .row{
   border: 0px;
