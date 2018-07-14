@@ -26,6 +26,16 @@
 
 .panel{
   background-color: #F12B40;
-  padding: 200px;
+  padding: 100px;
   margin-right: -30px;
+}
+
+#img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  float: right;
+}
+body{
+  background-color: blue;
 }
