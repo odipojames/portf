@@ -2,7 +2,7 @@
 ####contains details of James ODIPO
 ####odipo James is the developer of this web page
 ##this is a web page containing the details of odipo james and some of the projects he has developed
-##just run the url **** on your browser when connected to net to view the pages
+##just run the url https://odipojames.github.io/portf/ on your browser when connected to net to view the pages
 ## the pages have been developed in html and css
 ##in case you incure the problem to use the web contact us at +254707371208
 ## license
