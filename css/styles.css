@@ -39,3 +39,9 @@
 body{
   background-color: blue;
 }
+
+.topnav:hover{
+  opacity: 0.7;
+  background-color: white;
+  color: blue;
+}
