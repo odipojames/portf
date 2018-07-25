@@ -31,3 +31,8 @@ body {
 .p4 {
   align-self: flex-end;
 }
+.subscripton{
+  align-self: center;
+  font-size: 40px;
+  padding: 20px;
+}

@@ -1,55 +1,94 @@
-.topnav{
-  background-color:#009B87;
+.topnav {
+  background-color: #009B87;
   padding: 20px;
   color: white;
   align-items: center;
-    border-collapse: collapse;
-    border-style: ridge;
-    margin-right: -30px;
+  border-collapse: collapse;
+  border-style: ridge;
+  margin-right: -30px;
+  margin-bottom: -5px;
 }
 
-#topnav{  background-color:#313E51;
+
+.dropbtn {
+    background-color: #009B87;
+    color: white;
+    padding:
+    font-size: 16px;
+    border: none;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+
+  .dropdown-content a {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+  }
+  .dropdown-content a:hover {background-color: #009B87;}
+  .dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+
+
+
+
+
+
+#topnav {
+  background-color: #313E51;
   padding: 20px;
   color: white;
   align-items: center;
-    border-collapse: collapse;
-    border-style: ridge;
-    margin-right: -30px;
-
+  border-collapse: collapse;
+  border-style: ridge;
+  margin-right: -30px;
 }
 
-
-.row{
+.row {
   border: 0px;
   padding: 0px;
 }
 
-.panel{
-  background-color: #F12B40;
+.panel {
+  background-color: #1B3D5D;
   padding: 100px;
   margin-right: -30px;
 }
 
-#img{
+#img {
   width: 150px;
   height: 150px;
   border-radius: 50%;
   float: right;
 }
-body{
+
+body {
   background-color: blue;
 }
 
-.topnav:hover{
+.topnav:hover {
   opacity: 0.7;
   background-color: white;
   color: blue;
 }
-h3{
+
+h3 {
   color: #FF00F9;
 }
 
-p{
+p {
   color: white;
   font-size: 16px;
 }
